@@ -1,12 +1,19 @@
-# Summary
+# Celebal Technologies Internship Assignments
 
-1. Loaded the shopping dataset using Pandas.
-2. Explored the dataset using head(), shape(), columns, and info().
-3. Identified and handled missing values using median and mode.
-4. Removed duplicate records from the dataset.
-5. Performed filtering and column selection operations.
-6. Created a derived column (discount_amount/total_amount).
-7. Saved the cleaned dataset as Cleaned_Shopping_Dataset.csv.
+Welcome to my internship assignment repository. This repository contains all the weekly tasks completed as part of my internship at Celebal Technologies.
 
-Conclusion:
-The dataset was successfully cleaned and prepared for further analysis.
+## Repository Structure
+
+- Week 1 - Data Cleaning using Python
+- Week 2 - Assignment
+- Week 3 - SQL Data Analysis using Subqueries, CTEs, and Window Functions
+
+## Technologies Used
+
+- Python
+- SQL (Microsoft SQL Server)
+- SSMS (SQL Server Management Studio)
+- Jupyter Notebook
+- Git & GitHub
+
+

@@ -1,4 +1,3 @@
-# Celebal-Assignment-
 # Summary
 
 1. Loaded the shopping dataset using Pandas.
