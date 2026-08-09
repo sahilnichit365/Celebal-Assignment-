@@ -1,0 +1,27 @@
+E-COMMERCE DATA QUALITY REPORT
+==================================================
+
+Issue Type : Missing Customer IDs
+Description: Missing customer IDs were retained as NULL because the order itself is still valid.
+Count      : 50
+--------------------------------------------------
+Issue Type : Incorrect Date Format
+Description: DD-MM-YYYY dates were converted to YYYY-MM-DD HH:MM:SS.
+Count      : 50
+--------------------------------------------------
+Issue Type : Messy Product Names
+Description: Extra spaces were removed and product names were converted to title case.
+Count      : 114
+--------------------------------------------------
+Issue Type : Invalid Emails
+Description: Invalid email addresses were identified and replaced with NULL.
+Count      : 10
+--------------------------------------------------
+Issue Type : Negative Quantities
+Description: Negative quantities were retained because they represent returns.
+Count      : 75
+--------------------------------------------------
+Issue Type : Referential Integrity
+Description: No invalid order references were found.
+Count      : 0
+--------------------------------------------------

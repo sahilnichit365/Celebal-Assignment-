@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price
+PROD0001,Biography Born,Books,Biography,49769.6
+PROD0002,Accessories Science,Electronics,Accessories,43094.51
+PROD0003,Shoes From,Clothing,Shoes,1643.03
+PROD0004,Kitchen Argue,Home,Kitchen,18477.78
+PROD0005,Furniture Mind,Home,Furniture,20243.97
+PROD0006,Accessories Very,Electronics,Accessories,30061.12
+PROD0007, shoes mind ,Clothing,Shoes,13351.57
+PROD0008,Shoes Blood,Clothing,Shoes,42437.09
+PROD0009,Furniture Task,Home,Furniture,11095.89
+PROD0010,  SHIRTS ALTHOUGH  ,Clothing,Shirts,44162.14
+PROD0011,Education Maintain,Books,Education,3137.92
+PROD0012,Decor Child,Home,Decor,47261.17
+PROD0013,Decor After,Home,Decor,8296.01
+PROD0014, mobiles agency ,Electronics,Mobiles,28339.28
+PROD0015,Shirts Side,Clothing,Shirts,22650.2
+PROD0016,Technology Picture,Books,Technology,24417.3
+PROD0017,Education Exactly,Books,Education,39852.57
+PROD0018,Furniture Though,Home,Furniture,38835.92
+PROD0019,Accessories Same,Electronics,Accessories,34692.02
+PROD0020,  FURNITURE DEMOCRAT  ,Home,Furniture,36798.9
+PROD0021, accessories prevent ,Electronics,Accessories,49270.53
+PROD0022,Shirts Year,Clothing,Shirts,19972.32
+PROD0023,Furniture Final,Home,Furniture,40345.73
+PROD0024,Education Detail,Books,Education,38336.81
+PROD0025,Mobiles Analysis,Electronics,Mobiles,8491.47
+PROD0026,Lighting Majority,Home,Lighting,1782.69
+PROD0027,Jeans Nothing,Clothing,Jeans,21261.23
+PROD0028, technology section ,Books,Technology,2642.34
+PROD0029,Shirts Hear,Clothing,Shirts,17855.27
+PROD0030,  DECOR COACH  ,Home,Decor,11487.64
+PROD0031,Mobiles Its,Electronics,Mobiles,30259.12
+PROD0032,Laptops Ever,Electronics,Laptops,49184.36
+PROD0033,Kitchen Rise,Home,Kitchen,29956.06
+PROD0034,Shoes Southern,Clothing,Shoes,44564.93
+PROD0035, lighting score ,Home,Lighting,35294.17
+PROD0036,Decor Analysis,Home,Decor,27790.58
+PROD0037,Headphones Surface,Electronics,Headphones,10000.46
+PROD0038,Biography Control,Books,Biography,6585.64
+PROD0039,Decor High,Home,Decor,47069.37
+PROD0040,  KITCHEN READ  ,Home,Kitchen,18645.54
+PROD0041,Shirts Point,Clothing,Shirts,17867.37
+PROD0042, furniture listen ,Home,Furniture,41302.66
+PROD0043,Shoes Production,Clothing,Shoes,5098.31
+PROD0044,Technology Skill,Books,Technology,19553.36
+PROD0045,Technology Body,Books,Technology,28951.79
+PROD0046,Jackets Dinner,Clothing,Jackets,24828.66
+PROD0047,Education Dream,Books,Education,39459.73
+PROD0048,Kitchen Area,Home,Kitchen,18065.07
+PROD0049, technology open ,Books,Technology,49388.79
+PROD0050,  LAPTOPS SOCIAL  ,Electronics,Laptops,33663.43
+PROD0051,Kitchen Type,Home,Kitchen,3423.1
+PROD0052,Lighting Ok,Home,Lighting,22083.91
+PROD0053,Kitchen After,Home,Kitchen,16425.92
+PROD0054,Jackets Guy,Clothing,Jackets,22551.62
+PROD0055,Laptops She,Electronics,Laptops,37496.64
+PROD0056, mobiles people ,Electronics,Mobiles,40355.01
+PROD0057,Lighting Require,Home,Lighting,34187.28
+PROD0058,Headphones Answer,Electronics,Headphones,41295.48
+PROD0059,Technology Ready,Books,Technology,49610.75
+PROD0060,  FICTION CULTURE  ,Books,Fiction,17413.8
+PROD0061,Furniture Rest,Home,Furniture,22904.24
+PROD0062,Shirts Thing,Clothing,Shirts,34552.83
+PROD0063, biography we ,Books,Biography,18892.36
+PROD0064,Accessories Pick,Electronics,Accessories,23143.66
+PROD0065,Fiction Player,Books,Fiction,2884.57
+PROD0066,Lighting Never,Home,Lighting,33262.48
+PROD0067,Education Republican,Books,Education,27739.6
+PROD0068,Shoes Speak,Clothing,Shoes,15010.17
+PROD0069,Accessories Language,Electronics,Accessories,38969.05
+PROD0070,  DECOR USE  ,Home,Decor,35448.36
+PROD0071,Headphones Hope,Electronics,Headphones,27427.22
+PROD0072,Laptops Rate,Electronics,Laptops,17910.52
+PROD0073,Shirts Agree,Clothing,Shirts,10975.31
+PROD0074,Shoes Receive,Clothing,Shoes,11478.0
+PROD0075,Furniture Its,Home,Furniture,6795.79
+PROD0076,Decor Necessary,Home,Decor,34009.26
+PROD0077, technology think ,Books,Technology,26110.5
+PROD0078,Furniture Gun,Home,Furniture,2702.82
+PROD0079,Fiction Money,Books,Fiction,14297.19
+PROD0080,  SHIRTS TELEVISION  ,Clothing,Shirts,43101.78
+PROD0081,Headphones Majority,Electronics,Headphones,28262.41
+PROD0082,Shirts Technology,Clothing,Shirts,13716.41
+PROD0083,Accessories Oil,Electronics,Accessories,42323.07
+PROD0084, education like ,Books,Education,31990.11
+PROD0085,Accessories Surface,Electronics,Accessories,12190.16
+PROD0086,Headphones Player,Electronics,Headphones,28124.33
+PROD0087,Education Seven,Books,Education,37351.54
+PROD0088,Kitchen Degree,Home,Kitchen,27921.66
+PROD0089,Jeans Until,Clothing,Jeans,7174.07
+PROD0090,  LIGHTING HAVE  ,Home,Lighting,7462.87
+PROD0091, fiction reduce ,Books,Fiction,24195.94
+PROD0092,Fiction Suffer,Books,Fiction,27652.2
+PROD0093,Jackets Senior,Clothing,Jackets,8799.71
+PROD0094,Mobiles Color,Electronics,Mobiles,28461.27
+PROD0095,Kitchen Civil,Home,Kitchen,13512.92
+PROD0096,Furniture Because,Home,Furniture,10762.94
+PROD0097,Jackets Community,Clothing,Jackets,28921.74
+PROD0098, technology there ,Books,Technology,31546.09
+PROD0099,Accessories Skin,Electronics,Accessories,9568.05
+PROD0100,  EDUCATION ANIMAL  ,Books,Education,12670.28
+PROD0101,Decor Fly,Home,Decor,37344.9
+PROD0102,Furniture Agreement,Home,Furniture,21782.24
+PROD0103,Biography Hour,Books,Biography,27105.61
+PROD0104,Education Draw,Books,Education,35529.01
+PROD0105, shirts several ,Clothing,Shirts,36870.32
+PROD0106,Decor Various,Home,Decor,22795.81
+PROD0107,Accessories The,Electronics,Accessories,36854.63
+PROD0108,Education Law,Books,Education,45209.49
+PROD0109,Lighting Perhaps,Home,Lighting,19171.39
+PROD0110,  HEADPHONES CUT  ,Electronics,Headphones,1976.69
+PROD0111,Jeans Artist,Clothing,Jeans,18780.94
+PROD0112, decor operation ,Home,Decor,42075.54
+PROD0113,Headphones Same,Electronics,Headphones,2996.66
+PROD0114,Kitchen Sometimes,Home,Kitchen,27407.03
+PROD0115,Mobiles Network,Electronics,Mobiles,37211.53
+PROD0116,Technology Eye,Books,Technology,28171.47
+PROD0117,Shoes School,Clothing,Shoes,6141.83
+PROD0118,Jackets Scientist,Clothing,Jackets,1696.05
+PROD0119, kitchen do ,Home,Kitchen,21321.19
+PROD0120,  BIOGRAPHY GROUND  ,Books,Biography,29738.27
+PROD0121,Shoes Example,Clothing,Shoes,733.43
+PROD0122,Headphones Remember,Electronics,Headphones,45383.7
+PROD0123,Jackets Base,Clothing,Jackets,42513.17
+PROD0124,Education Age,Books,Education,12623.47
+PROD0125,Jeans Artist,Clothing,Jeans,15705.55
+PROD0126, accessories feel ,Electronics,Accessories,10631.48
+PROD0127,Accessories Wear,Electronics,Accessories,41931.7
+PROD0128,Technology Walk,Books,Technology,7961.83
+PROD0129,Shoes Lay,Clothing,Shoes,3786.52
+PROD0130,  TECHNOLOGY POINT  ,Books,Technology,17574.94
+PROD0131,Decor Relate,Home,Decor,20603.24
+PROD0132,Jeans Kind,Clothing,Jeans,11167.36
+PROD0133, jeans have ,Clothing,Jeans,16750.2
+PROD0134,Laptops Put,Electronics,Laptops,9848.52
+PROD0135,Education Well,Books,Education,12059.33
+PROD0136,Shirts Reflect,Clothing,Shirts,25744.16
+PROD0137,Accessories Thought,Electronics,Accessories,420.45
+PROD0138,Shoes Resource,Clothing,Shoes,15833.84
+PROD0139,Accessories General,Electronics,Accessories,35534.06
+PROD0140,  SHIRTS LITTLE  ,Clothing,Shirts,16315.44
+PROD0141,Headphones Rest,Electronics,Headphones,46242.83
+PROD0142,Kitchen Theory,Home,Kitchen,37287.95
+PROD0143,Kitchen Data,Home,Kitchen,14543.84
+PROD0144,Headphones Attorney,Electronics,Headphones,5426.39
+PROD0145,Accessories Include,Electronics,Accessories,24109.03
+PROD0146,Decor Surface,Home,Decor,24760.5
+PROD0147, technology security ,Books,Technology,49275.88
+PROD0148,Kitchen Professional,Home,Kitchen,18451.69
+PROD0149,Headphones Reveal,Electronics,Headphones,27096.21
+PROD0150,  KITCHEN RAISE  ,Home,Kitchen,43795.56
+PROD0151,Jeans Head,Clothing,Jeans,42691.93
+PROD0152,Headphones Begin,Electronics,Headphones,25385.4
+PROD0153,Shirts East,Clothing,Shirts,25645.09
+PROD0154, biography mention ,Books,Biography,16657.85
+PROD0155,Headphones Apply,Electronics,Headphones,30012.4
+PROD0156,Mobiles Positive,Electronics,Mobiles,43532.39
+PROD0157,Accessories Concern,Electronics,Accessories,19944.57
+PROD0158,Fiction Energy,Books,Fiction,9438.64
+PROD0159,Lighting Identify,Home,Lighting,10847.94
+PROD0160,  LIGHTING PM  ,Home,Lighting,16516.38
+PROD0161, education performance ,Books,Education,29611.9
+PROD0162,Accessories Deep,Electronics,Accessories,25469.39
+PROD0163,Accessories Production,Electronics,Accessories,24237.66
+PROD0164,Jackets Republican,Clothing,Jackets,18552.81
+PROD0165,Shoes Mouth,Clothing,Shoes,43349.69
+PROD0166,Furniture Fish,Home,Furniture,13411.85
+PROD0167,Mobiles Kind,Electronics,Mobiles,951.91
+PROD0168, headphones read ,Electronics,Headphones,19037.44
+PROD0169,Fiction Floor,Books,Fiction,2036.77
+PROD0170,  SHOES MAY  ,Clothing,Shoes,4397.8
+PROD0171,Mobiles Number,Electronics,Mobiles,12233.01
+PROD0172,Laptops Dark,Electronics,Laptops,6639.47
+PROD0173,Fiction Huge,Books,Fiction,14295.18
+PROD0174,Kitchen Provide,Home,Kitchen,28100.73
+PROD0175, technology federal ,Books,Technology,49945.73
+PROD0176,Mobiles Strategy,Electronics,Mobiles,19451.1
+PROD0177,Shirts Machine,Clothing,Shirts,10054.57
+PROD0178,Accessories Mrs,Electronics,Accessories,6672.05
+PROD0179,Decor With,Home,Decor,34993.09
+PROD0180,  LAPTOPS VERY  ,Electronics,Laptops,12081.43
+PROD0181,Fiction Coach,Books,Fiction,49683.28
+PROD0182, mobiles poor ,Electronics,Mobiles,37929.11
+PROD0183,Biography Forget,Books,Biography,36820.76
+PROD0184,Shoes Under,Clothing,Shoes,46203.05
+PROD0185,Education Positive,Books,Education,44471.99
+PROD0186,Furniture Decision,Home,Furniture,48184.17
+PROD0187,Education Remember,Books,Education,16067.59
+PROD0188,Biography Maybe,Books,Biography,46425.28
+PROD0189, education start ,Books,Education,43094.02
+PROD0190,  EDUCATION LATER  ,Books,Education,32893.41
+PROD0191,Biography Ever,Books,Biography,9136.77
+PROD0192,Laptops Health,Electronics,Laptops,12978.04
+PROD0193,Jeans Player,Clothing,Jeans,18676.92
+PROD0194,Shirts Deep,Clothing,Shirts,45134.5
+PROD0195,Accessories Scene,Electronics,Accessories,42687.95
+PROD0196, mobiles walk ,Electronics,Mobiles,44110.21
+PROD0197,Education Begin,Books,Education,14137.08
+PROD0198,Education Line,Books,Education,18150.56
+PROD0199,Furniture House,Home,Furniture,20034.56
+PROD0200,  SHIRTS ART  ,Clothing,Shirts,22757.16
+PROD0201,Mobiles Ago,Electronics,Mobiles,24638.71
+PROD0202,Decor Staff,Home,Decor,16712.31
+PROD0203, fiction college ,Books,Fiction,30657.99
+PROD0204,Laptops Structure,Electronics,Laptops,16934.79
+PROD0205,Jeans Radio,Clothing,Jeans,29320.88
+PROD0206,Headphones Participant,Electronics,Headphones,4277.52
+PROD0207,Shoes Any,Clothing,Shoes,47844.61
+PROD0208,Jackets Read,Clothing,Jackets,13233.79
+PROD0209,Technology Hold,Books,Technology,15919.96
+PROD0210,  EDUCATION SON  ,Books,Education,14261.49
+PROD0211,Laptops Wind,Electronics,Laptops,19412.11
+PROD0212,Fiction As,Books,Fiction,19015.36
+PROD0213,Biography Next,Books,Biography,44409.05
+PROD0214,Jackets Citizen,Clothing,Jackets,26357.95
+PROD0215,Biography Young,Books,Biography,8338.06
+PROD0216,Laptops Late,Electronics,Laptops,1265.39
+PROD0217, technology pattern ,Books,Technology,22410.21
+PROD0218,Laptops Loss,Electronics,Laptops,39547.22
+PROD0219,Jackets Discussion,Clothing,Jackets,20182.91
+PROD0220,  LAPTOPS NATIONAL  ,Electronics,Laptops,42938.06
+PROD0221,Lighting Upon,Home,Lighting,3829.13
+PROD0222,Decor Maybe,Home,Decor,34243.76
+PROD0223,Furniture Allow,Home,Furniture,28010.23
+PROD0224, fiction explain ,Books,Fiction,19692.73
+PROD0225,Decor Follow,Home,Decor,40025.5
+PROD0226,Lighting Democrat,Home,Lighting,10655.17
+PROD0227,Accessories Decide,Electronics,Accessories,5113.34
+PROD0228,Decor But,Home,Decor,40908.49
+PROD0229,Kitchen Admit,Home,Kitchen,16901.93
+PROD0230,  FICTION YEAR  ,Books,Fiction,9815.64
+PROD0231, lighting make ,Home,Lighting,41682.86
+PROD0232,Furniture Important,Home,Furniture,39530.56
+PROD0233,Decor List,Home,Decor,16794.36
+PROD0234,Kitchen Over,Home,Kitchen,31617.27
+PROD0235,Jeans Us,Clothing,Jeans,49595.37
+PROD0236,Technology Institution,Books,Technology,44332.65
+PROD0237,Accessories With,Electronics,Accessories,29277.06
+PROD0238, headphones pull ,Electronics,Headphones,7782.73
+PROD0239,Education Stay,Books,Education,49814.49
+PROD0240,  BIOGRAPHY ALONE  ,Books,Biography,44802.3
+PROD0241,Jackets Sense,Clothing,Jackets,5545.95
+PROD0242,Jackets Run,Clothing,Jackets,8088.83
+PROD0243,Lighting Rich,Home,Lighting,27414.21
+PROD0244,Laptops First,Electronics,Laptops,25354.42
+PROD0245, kitchen just ,Home,Kitchen,41205.72
+PROD0246,Jeans Ground,Clothing,Jeans,28971.23
+PROD0247,Decor Language,Home,Decor,46802.42
+PROD0248,Technology Edge,Books,Technology,35720.9
+PROD0249,Mobiles Writer,Electronics,Mobiles,3033.8
+PROD0250,  JACKETS CUP  ,Clothing,Jackets,31864.78
+PROD0251,Furniture Daughter,Home,Furniture,18617.15
+PROD0252, furniture issue ,Home,Furniture,1874.23
+PROD0253,Jeans Describe,Clothing,Jeans,46238.98
+PROD0254,Lighting Onto,Home,Lighting,21267.32
+PROD0255,Decor Move,Home,Decor,45759.26
+PROD0256,Accessories Compare,Electronics,Accessories,33874.87
+PROD0257,Mobiles Ever,Electronics,Mobiles,42738.71
+PROD0258,Jeans Series,Clothing,Jeans,20186.26
+PROD0259, biography science ,Books,Biography,30938.01
+PROD0260,  JACKETS WE  ,Clothing,Jackets,15079.58
+PROD0261,Furniture Green,Home,Furniture,26699.62
+PROD0262,Shirts Attention,Clothing,Shirts,9994.1
+PROD0263,Furniture Point,Home,Furniture,724.27
+PROD0264,Jeans Hear,Clothing,Jeans,39049.32
+PROD0265,Fiction Whole,Books,Fiction,38910.44
+PROD0266, shoes carry ,Clothing,Shoes,42476.89
+PROD0267,Mobiles Life,Electronics,Mobiles,18046.16
+PROD0268,Jeans Career,Clothing,Jeans,28361.56
+PROD0269,Decor Nice,Home,Decor,752.03
+PROD0270,  BIOGRAPHY CARRY  ,Books,Biography,38599.52
+PROD0271,Kitchen Wind,Home,Kitchen,34834.93
+PROD0272,Jeans Another,Clothing,Jeans,30711.36
+PROD0273, shoes realize ,Clothing,Shoes,47387.46
+PROD0274,Mobiles Institution,Electronics,Mobiles,38572.68
+PROD0275,Kitchen Police,Home,Kitchen,21312.94
+PROD0276,Jeans Me,Clothing,Jeans,8187.65
+PROD0277,Decor Term,Home,Decor,28854.02
+PROD0278,Decor Five,Home,Decor,44203.28
+PROD0279,Mobiles Start,Electronics,Mobiles,11515.79
+PROD0280,  JEANS FINALLY  ,Clothing,Jeans,48048.77
+PROD0281,Mobiles Project,Electronics,Mobiles,17409.45
+PROD0282,Laptops Lay,Electronics,Laptops,46968.58
+PROD0283,Accessories Garden,Electronics,Accessories,29254.4
+PROD0284,Laptops Eat,Electronics,Laptops,21022.21
+PROD0285,Kitchen Season,Home,Kitchen,22392.93
+PROD0286,Mobiles Physical,Electronics,Mobiles,127.57
+PROD0287, jeans car ,Clothing,Jeans,20599.27
+PROD0288,Decor Garden,Home,Decor,8260.92
+PROD0289,Fiction Model,Books,Fiction,18154.94
+PROD0290,  MOBILES RACE  ,Electronics,Mobiles,35509.89
+PROD0291,Jeans Finish,Clothing,Jeans,1915.33
+PROD0292,Headphones Song,Electronics,Headphones,37602.42
+PROD0293,Technology Appear,Books,Technology,37339.43
+PROD0294, jeans sometimes ,Clothing,Jeans,38857.81
+PROD0295,Accessories Fine,Electronics,Accessories,32770.73
+PROD0296,Shoes Prepare,Clothing,Shoes,14747.24
+PROD0297,Jackets Good,Clothing,Jackets,27106.8
+PROD0298,Jackets Actually,Clothing,Jackets,8181.87
+PROD0299,Headphones Operation,Electronics,Headphones,45662.73
+PROD0300,  LIGHTING GUY  ,Home,Lighting,8847.2
+PROD0301, lighting choose ,Home,Lighting,10037.35
+PROD0302,Shirts Guess,Clothing,Shirts,40610.91
+PROD0303,Shoes Director,Clothing,Shoes,48883.88
+PROD0304,Technology Red,Books,Technology,42446.81
+PROD0305,Kitchen Individual,Home,Kitchen,10150.0
+PROD0306,Mobiles Season,Electronics,Mobiles,26597.75
+PROD0307,Shoes Carry,Clothing,Shoes,29809.42
+PROD0308, jackets player ,Clothing,Jackets,25988.6
+PROD0309,Fiction Model,Books,Fiction,18172.53
+PROD0310,  FICTION TYPE  ,Books,Fiction,18973.75
+PROD0311,Fiction Enjoy,Books,Fiction,41696.4
+PROD0312,Jackets Ready,Clothing,Jackets,14029.65
+PROD0313,Fiction Home,Books,Fiction,23898.31
+PROD0314,Laptops Role,Electronics,Laptops,46009.41
+PROD0315, accessories allow ,Electronics,Accessories,46770.49
+PROD0316,Kitchen Rest,Home,Kitchen,25689.95
+PROD0317,Technology Home,Books,Technology,28159.41
+PROD0318,Fiction Structure,Books,Fiction,8240.36
+PROD0319,Education Investment,Books,Education,31242.53
+PROD0320,  DECOR NATIONAL  ,Home,Decor,36851.24
+PROD0321,Education Evidence,Books,Education,18174.52
+PROD0322, biography produce ,Books,Biography,24826.01
+PROD0323,Biography Talk,Books,Biography,25416.3
+PROD0324,Biography Line,Books,Biography,29157.93
+PROD0325,Jeans Executive,Clothing,Jeans,9614.29
+PROD0326,Technology Door,Books,Technology,38953.55
+PROD0327,Jeans Buy,Clothing,Jeans,44418.34
+PROD0328,Jackets They,Clothing,Jackets,47475.66
+PROD0329, technology miss ,Books,Technology,4613.4
+PROD0330,  DECOR LIVE  ,Home,Decor,46068.16
+PROD0331,Jeans Dinner,Clothing,Jeans,9857.92
+PROD0332,Laptops Experience,Electronics,Laptops,25473.46
+PROD0333,Jackets Sport,Clothing,Jackets,45990.9
+PROD0334,Kitchen Alone,Home,Kitchen,49117.24
+PROD0335,Laptops Plan,Electronics,Laptops,28197.12
+PROD0336, furniture likely ,Home,Furniture,32489.26
+PROD0337,Furniture Model,Home,Furniture,43798.64
+PROD0338,Biography Knowledge,Books,Biography,31152.45
+PROD0339,Headphones Financial,Electronics,Headphones,32539.37
+PROD0340,  MOBILES CHAIR  ,Electronics,Mobiles,7901.23
+PROD0341,Accessories Discussion,Electronics,Accessories,24261.42
+PROD0342,Jeans Oil,Clothing,Jeans,22836.02
+PROD0343, fiction assume ,Books,Fiction,47960.34
+PROD0344,Shoes Mind,Clothing,Shoes,30533.58
+PROD0345,Decor Month,Home,Decor,28545.66
+PROD0346,Shoes Detail,Clothing,Shoes,38140.56
+PROD0347,Lighting Mind,Home,Lighting,821.43
+PROD0348,Kitchen Different,Home,Kitchen,38254.48
+PROD0349,Furniture Game,Home,Furniture,13313.0
+PROD0350,  TECHNOLOGY CHAIR  ,Books,Technology,23998.9
+PROD0351,Fiction Stay,Books,Fiction,29560.19
+PROD0352,Jeans Standard,Clothing,Jeans,16595.42
+PROD0353,Education Ground,Books,Education,40467.72
+PROD0354,Fiction Serve,Books,Fiction,7407.08
+PROD0355,Biography Dog,Books,Biography,5449.28
+PROD0356,Jackets Hand,Clothing,Jackets,5962.49
+PROD0357, jackets action ,Clothing,Jackets,35938.42
+PROD0358,Laptops Relationship,Electronics,Laptops,23259.47
+PROD0359,Fiction Instead,Books,Fiction,24932.59
+PROD0360,  MOBILES GREAT  ,Electronics,Mobiles,7457.8
+PROD0361,Mobiles Form,Electronics,Mobiles,40524.8
+PROD0362,Laptops Discussion,Electronics,Laptops,26384.92
+PROD0363,Biography Develop,Books,Biography,21690.91
+PROD0364, shirts during ,Clothing,Shirts,42551.18
+PROD0365,Mobiles Relationship,Electronics,Mobiles,47297.33
+PROD0366,Technology True,Books,Technology,14284.31
+PROD0367,Fiction Woman,Books,Fiction,31086.67
+PROD0368,Accessories Speak,Electronics,Accessories,2827.29
+PROD0369,Jeans Suddenly,Clothing,Jeans,18348.34
+PROD0370,  MOBILES YEAH  ,Electronics,Mobiles,15981.7
+PROD0371, accessories cover ,Electronics,Accessories,16975.7
+PROD0372,Education Station,Books,Education,40709.61
+PROD0373,Fiction Well,Books,Fiction,48004.47
+PROD0374,Lighting Whose,Home,Lighting,40939.26
+PROD0375,Shirts Those,Clothing,Shirts,47450.61
+PROD0376,Jackets Store,Clothing,Jackets,18017.44
+PROD0377,Furniture Loss,Home,Furniture,15814.51
+PROD0378, laptops range ,Electronics,Laptops,1487.03
+PROD0379,Lighting Present,Home,Lighting,5425.0
+PROD0380,  SHIRTS SECURITY  ,Clothing,Shirts,7002.64
+PROD0381,Decor I,Home,Decor,40181.57
+PROD0382,Fiction Sell,Books,Fiction,4065.23
+PROD0383,Headphones Get,Electronics,Headphones,25664.03
+PROD0384,Shoes Exactly,Clothing,Shoes,20364.73
+PROD0385, laptops choice ,Electronics,Laptops,12587.36
+PROD0386,Laptops Wife,Electronics,Laptops,19154.71
+PROD0387,Accessories Much,Electronics,Accessories,49923.99
+PROD0388,Accessories Radio,Electronics,Accessories,12526.79
+PROD0389,Fiction Mouth,Books,Fiction,23325.41
+PROD0390,  SHOES SOMEBODY  ,Clothing,Shoes,33610.08
+PROD0391,Fiction Within,Books,Fiction,7897.8
+PROD0392, decor last ,Home,Decor,7734.52
+PROD0393,Accessories Old,Electronics,Accessories,14718.54
+PROD0394,Fiction Stage,Books,Fiction,46058.32
+PROD0395,Shoes Simply,Clothing,Shoes,12161.36
+PROD0396,Biography Probably,Books,Biography,28910.41
+PROD0397,Fiction Seem,Books,Fiction,30449.3
+PROD0398,Kitchen Stop,Home,Kitchen,3824.22
+PROD0399, furniture number ,Home,Furniture,7042.27
+PROD0400,  SHIRTS ATTORNEY  ,Clothing,Shirts,31328.99
+PROD0401,Education Exist,Books,Education,10324.55
+PROD0402,Jackets Series,Clothing,Jackets,43137.1
+PROD0403,Shirts But,Clothing,Shirts,27230.01
+PROD0404,Shirts Generation,Clothing,Shirts,22436.82
+PROD0405,Laptops What,Electronics,Laptops,45262.75
+PROD0406, jeans difficult ,Clothing,Jeans,26481.15
+PROD0407,Decor Speak,Home,Decor,26645.75
+PROD0408,Mobiles Out,Electronics,Mobiles,864.09
+PROD0409,Laptops Trouble,Electronics,Laptops,43387.93
+PROD0410,  EDUCATION FOUR  ,Books,Education,10944.34
+PROD0411,Technology Body,Books,Technology,29888.5
+PROD0412,Biography Character,Books,Biography,1861.63
+PROD0413, laptops use ,Electronics,Laptops,41576.97
+PROD0414,Kitchen Degree,Home,Kitchen,22602.46
+PROD0415,Mobiles Try,Electronics,Mobiles,19392.28
+PROD0416,Decor Do,Home,Decor,20902.62
+PROD0417,Decor Exist,Home,Decor,8028.14
+PROD0418,Biography Nearly,Books,Biography,26246.7
+PROD0419,Jackets Attack,Clothing,Jackets,26002.99
+PROD0420,  JACKETS POSITION  ,Clothing,Jackets,13035.76
+PROD0421,Education Institution,Books,Education,44888.68
+PROD0422,Biography Consumer,Books,Biography,37567.73
+PROD0423,Biography Choice,Books,Biography,36906.58
+PROD0424,Accessories Good,Electronics,Accessories,11220.61
+PROD0425,Furniture Identify,Home,Furniture,2794.9
+PROD0426,Technology Most,Books,Technology,46210.58
+PROD0427, mobiles quite ,Electronics,Mobiles,13066.24
+PROD0428,Jackets Leave,Clothing,Jackets,18574.65
+PROD0429,Shoes Someone,Clothing,Shoes,29173.86
+PROD0430,  SHIRTS LEFT  ,Clothing,Shirts,40098.28
+PROD0431,Shoes Tell,Clothing,Shoes,24151.42
+PROD0432,Accessories Cup,Electronics,Accessories,43424.51
+PROD0433,Headphones Measure,Electronics,Headphones,1319.6
+PROD0434, technology pay ,Books,Technology,23440.63
+PROD0435,Furniture Friend,Home,Furniture,10872.38
+PROD0436,Fiction Central,Books,Fiction,2884.43
+PROD0437,Mobiles Month,Electronics,Mobiles,34023.09
+PROD0438,Jackets Seat,Clothing,Jackets,8817.05
+PROD0439,Jackets Poor,Clothing,Jackets,9663.98
+PROD0440,  FURNITURE FOOD  ,Home,Furniture,42470.85
+PROD0441, technology wide ,Books,Technology,7075.82
+PROD0442,Lighting Left,Home,Lighting,30121.8
+PROD0443,Biography Recently,Books,Biography,26505.5
+PROD0444,Technology Relationship,Books,Technology,43754.68
+PROD0445,Fiction Sure,Books,Fiction,13905.35
+PROD0446,Furniture Deep,Home,Furniture,10443.86
+PROD0447,Headphones Before,Electronics,Headphones,28661.11
+PROD0448, furniture challenge ,Home,Furniture,10845.65
+PROD0449,Headphones Contain,Electronics,Headphones,24546.92
+PROD0450,  SHIRTS MEET  ,Clothing,Shirts,16178.14
+PROD0451,Decor Protect,Home,Decor,43081.59
+PROD0452,Decor Feeling,Home,Decor,27156.99
+PROD0453,Headphones Wonder,Electronics,Headphones,34661.89
+PROD0454,Technology Event,Books,Technology,1516.26
+PROD0455, decor morning ,Home,Decor,15396.7
+PROD0456,Fiction Reduce,Books,Fiction,16564.43
+PROD0457,Shoes Financial,Clothing,Shoes,13588.74
+PROD0458,Biography Reality,Books,Biography,42448.94
+PROD0459,Laptops Base,Electronics,Laptops,22925.82
+PROD0460,  SHOES LISTEN  ,Clothing,Shoes,46211.48
+PROD0461,Shoes Two,Clothing,Shoes,22985.52
+PROD0462, shoes require ,Clothing,Shoes,25017.52
+PROD0463,Education Democrat,Books,Education,34287.46
+PROD0464,Fiction Mean,Books,Fiction,25238.03
+PROD0465,Mobiles Individual,Electronics,Mobiles,29614.74
+PROD0466,Jeans Reach,Clothing,Jeans,19868.55
+PROD0467,Lighting Event,Home,Lighting,1752.08
+PROD0468,Shirts Edge,Clothing,Shirts,46812.02
+PROD0469, jackets board ,Clothing,Jackets,45243.94
+PROD0470,  JEANS RAISE  ,Clothing,Jeans,28605.77
+PROD0471,Shoes Exist,Clothing,Shoes,20590.14
+PROD0472,Technology Civil,Books,Technology,2939.04
+PROD0473,Headphones Can,Electronics,Headphones,41518.24
+PROD0474,Jackets Think,Clothing,Jackets,23088.7
+PROD0475,Fiction Tend,Books,Fiction,32986.02
+PROD0476, kitchen feeling ,Home,Kitchen,33394.02
+PROD0477,Biography Take,Books,Biography,2785.78
+PROD0478,Mobiles Court,Electronics,Mobiles,23172.45
+PROD0479,Lighting Only,Home,Lighting,17299.52
+PROD0480,  BIOGRAPHY SEE  ,Books,Biography,32182.08
+PROD0481,Jeans American,Clothing,Jeans,2877.93
+PROD0482,Furniture Especially,Home,Furniture,4255.6
+PROD0483, decor degree ,Home,Decor,24733.68
+PROD0484,Jeans Opportunity,Clothing,Jeans,47589.08
+PROD0485,Education Walk,Books,Education,914.66
+PROD0486,Mobiles Thousand,Electronics,Mobiles,11191.89
+PROD0487,Education Offer,Books,Education,41865.01
+PROD0488,Biography Position,Books,Biography,39948.79
+PROD0489,Biography Move,Books,Biography,15234.09
+PROD0490,  LIGHTING HAVE  ,Home,Lighting,9875.82
+PROD0491,Furniture Play,Home,Furniture,598.2
+PROD0492,Technology Foot,Books,Technology,28218.88
+PROD0493,Accessories Despite,Electronics,Accessories,43890.78
+PROD0494,Shoes Piece,Clothing,Shoes,25509.44
+PROD0495,Jeans Position,Clothing,Jeans,48352.6
+PROD0496,Jeans Own,Clothing,Jeans,36234.19
+PROD0497, jeans fund ,Clothing,Jeans,28005.17
+PROD0498,Shirts Court,Clothing,Shirts,12852.26
+PROD0499,Kitchen Very,Home,Kitchen,2781.0
+PROD0500,  SHOES PAGE  ,Clothing,Shoes,9915.55
