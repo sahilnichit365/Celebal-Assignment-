@@ -1,30 +1,48 @@
-# LearnTrack: LMS Analytics Pipeline
+# LMS Analytics Data Pipeline
 
-## Overview
+## 📌 Project Overview
 
-LearnTrack is a batch data engineering pipeline for analyzing Learning Management System (LMS) data.
-
-The project uses Python, PySpark, Databricks, Delta Lake, and SQL to transform raw LMS data into analytics-ready business metrics.
-
-## Datasets
-
-The pipeline uses three source datasets:
-
-- `learners.csv` - learner information
-- `courses.csv` - course and instructor information
-- `enrolment_activity.csv` - learner enrollment, progress, and assessment activity
-
-## Architecture
+The LMS Analytics Data Pipeline is a data engineering project designed to process and transform Learning Management System (LMS) data using Apache Spark and Databricks.
 
 The project follows the Medallion Architecture:
 
+**Bronze → Silver → Gold**
+
+The pipeline converts raw LMS data into clean, enriched, and business-ready analytical datasets.
+
+---
+
+## 🏗️ Architecture
+
 ```text
-Raw CSV Data
-     ↓
-Bronze Layer
-     ↓
-Silver Layer
-     ↓
-Gold Layer
-     ↓
-Business Analytics
+                    LMS Raw Data
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │   🥉 BRONZE LAYER   │
+              │                     │
+              │ Raw LMS Data        │
+              │ - Courses           │
+              │ - Learners          │
+              │ - Enrolments        │
+              └──────────┬──────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │   🥈 SILVER LAYER   │
+              │                     │
+              │ Data Cleaning       │
+              │ Data Transformation │
+              │ Data Enrichment     │
+              └──────────┬──────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │     🥇 GOLD LAYER   │
+              │                     │
+              │ Business Analytics  │
+              │ Course Performance  │
+              │ Learner Performance │
+              │ Enrollment Analytics│
+              │ Activity Analytics  │
+              └─────────────────────┘
