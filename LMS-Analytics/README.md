@@ -16,7 +16,8 @@ The pipeline converts raw LMS data into clean, enriched, and business-ready anal
 
 The interactive dashboard is available on Databricks:
 
-[View LMS Analytics Dashboard]([YOUR_DATABRICKS_DASHBOARD_LINK](https://dbc-dda606d7-2c4d.cloud.databricks.com/dashboardsv3/01f194a2c08a17a6808dbce529725812/published?o=7474647455285702))
+[View LMS Analytics Dashboard]
+((https://dbc-dda606d7-2c4d.cloud.databricks.com/dashboardsv3/01f194a2c08a17a6808dbce529725812/published?o=7474647455285702))
 
 ## 🏗️ Architecture
 
